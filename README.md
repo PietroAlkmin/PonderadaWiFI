@@ -326,5 +326,3 @@ Novembro de 2025
 Este projeto foi desenvolvido para fins educacionais no Instituto de Tecnologia e Liderança (Inteli).
 
 ---
-
-**🚀 Projeto finalizado com sucesso!**
