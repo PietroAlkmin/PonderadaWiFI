@@ -176,7 +176,7 @@ A análise dos gráficos e valores coletados permitiu observar:
 
 ## 3. Demonstração em Vídeo
 
-🎥 **Link do vídeo:** [INSERIR LINK DO GOOGLE DRIVE AQUI]
+🎥 **Link do vídeo:** [:](https://drive.google.com/file/d/1L6LjPOSOWzwga85METBlD3hM2yvsUky4/view?usp=sharing)
 
 O vídeo demonstra:
 - ✅ ESP32 conectado e funcionando
